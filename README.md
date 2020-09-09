@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 # The Interstellar Mermaid Story
-=======
-# mermaid-story
 
 >>>>>>> 1a6d2bd9e5d74cce4ab7843429b5c0ca78c1eb2f
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod erat non odio finibus, mollis pellentesque turpis auctor. In sed neque ante. Ut vitae orci faucibus odio egestas tempor. Donec ullamcorper elementum tortor, id dignissim metus dictum vel. Proin ac pellentesque diam. Vivamus suscipit risus velit, ultricies egestas sem egestas ut. Cras ultricies leo nec risus rutrum, id molestie odio consectetur. Mauris ut vestibulum erat. Praesent sodales vel eros quis porttitor. Nulla convallis mi at urna sagittis vulputate. Duis hendrerit pulvinar posuere.
