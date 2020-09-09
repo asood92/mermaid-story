@@ -7,3 +7,5 @@ Maecenas in ligula fermentum odio consequat auctor non sed ipsum. Mauris laoreet
 Morbi commodo nisi at enim pretium blandit quis in mi. Nam sagittis ex at felis accumsan, nec fermentum tortor varius. Sed gravida dignissim orci ac iaculis. Phasellus maximus lectus ac lectus posuere malesuada. Duis gravida diam eget accumsan imperdiet. In non eleifend ex, non porta ex. Morbi finibus ex et dui auctor consequat. Maecenas at interdum diam. Maecenas ut dolor velit. Proin fringilla tincidunt mi convallis suscipit. Nullam consectetur fringilla leo imperdiet volutpat. 
 
 The mermaid looked into space and started to sing.
+
+Mermaids are the mythical creatures that were initially created as the personifications of the water deities of ancient civilizations. They were celebrated as the bringers of life and fertility because of the sea endless supply of food, and also as forces of great nature power and destruction.
